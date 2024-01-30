@@ -1,0 +1,16 @@
+{
+    "token": "MTIwMTg1MjQ3NTczNzYzNjg5NA.GI1PD5.HsdXoNOJ4PzfPLIY42PARfjMfMMvJzp3h0MKRQ",
+    "prefix": "!",
+    "owner_id": "561473834000187413",
+    "mongo_url": "mongodb+srv://atillanoxy:atibaba@gelta.araaclb.mongodb.net/?retryWrites=true&w=majority",
+    "roles": {
+        "free_role_id": "1201855487294046212",
+        "boost_role_id": "1201953269052879010",
+        "vip_role_id": "1201855487294046209"
+    },
+    "channels": {
+        "free_chat_id": "1201855488866648082",
+        "boost_chat_id": "1201855488866648083",
+        "vip_chat_id": "1201855489273770044"
+    }
+}

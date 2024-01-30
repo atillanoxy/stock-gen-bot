@@ -1,0 +1,17 @@
+{
+  "name": "geltagen",
+  "version": "0.0.1",
+  "description": "GELTA ACCOUNT GENERATOR",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "QUİLLONE",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.17.0",
+    "dotenv": "^16.4.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.1.1"
+  }
+}
