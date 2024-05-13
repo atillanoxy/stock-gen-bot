@@ -6,7 +6,7 @@
 	  BİLGİLENDİRME
 </h3>
 
-BU BOT ATİLLA TARAFINDAN HAZIRLANMIŞTIR. TÜRK AÇIK KAYNAK TOPLULUĞUNA HEDİYEDİR.
+BU BOT [ATİLLA](https://www.youtube.com/@Atillafordiscord) TARAFINDAN HAZIRLANMIŞTIR. TÜRK AÇIK KAYNAK TOPLULUĞUNA HEDİYEDİR.
 
 ÜCRETLİ BOT YAPTIRMAK İÇİN @navatlas
 <h3 align="center">
@@ -21,7 +21,7 @@ BU BOT ATİLLA TARAFINDAN HAZIRLANMIŞTIR. TÜRK AÇIK KAYNAK TOPLULUĞUNA HEDİ
 * `!gen <abonelik> <servis>` - İstediğiniz abonelikten istediğiniz servisin hesabını üretmek için kullanın
 * `!vipcreate <kaç adet kod üreticen> <haftalık/aylık>` - İstediğiniz abonelikten istediğiniz servisin hesabını üretmek için kullanın
 
-* Herhangi bir sorunda Zenithe gelerek yardım alabilirsiniz. (Tıkla)[https://discord.gg/5fHY5DUJA5]
+* Herhangi bir sorunda Zenithe gelerek yardım alabilirsiniz. [Tıkla](https://discord.gg/5fHY5DUJA5)
 * Easy to use and lightweight.
 
 <h3 align="center">
@@ -36,7 +36,7 @@ Stok eklemek için
 ```botdosyası/stok/<free/boost/vip>/istediğinservis```
 
 Token Alma
-* Discord developer portala gir (Tıkla){https://discord.com/developers/applications]
+* Discord developer portala gir [Tıkla[(https://discord.com/developers/applications)
 * Sağ üst köşeden New Aplication tıkla
 * Bot Adını gir.
 * Oluşurduğun bota tıkla
