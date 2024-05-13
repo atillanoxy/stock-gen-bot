@@ -36,7 +36,7 @@ Stok eklemek için
 ```botdosyası/stok/<free/boost/vip>/istediğinservis```
 
 Token Alma
-* Discord developer portala gir [Tıkla[(https://discord.com/developers/applications)
+* Discord developer portala gir [Tıkla](https://discord.com/developers/applications)
 * Sağ üst köşeden New Aplication tıkla
 * Bot Adını gir.
 * Oluşurduğun bota tıkla
