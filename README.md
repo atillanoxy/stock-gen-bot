@@ -21,8 +21,8 @@ BU BOT [ATİLLA](https://www.youtube.com/@Atillafordiscord) TARAFINDAN HAZIRLANM
 * `!gen <abonelik> <servis>` - İstediğiniz abonelikten istediğiniz servisin hesabını üretmek için kullanın
 * `!vipcreate <kaç adet kod üreticen> <haftalık/aylık>` - İstediğiniz abonelikten istediğiniz servisin hesabını üretmek için kullanın
 
-* Herhangi bir sorunda Zenithe gelerek yardım alabilirsiniz. [Tıkla](https://discord.gg/5fHY5DUJA5)
-* Easy to use and lightweight.
+  **Herhangi bir sorunda Zenithe gelerek yardım alabilirsiniz. [Tıkla](https://discord.gg/5fHY5DUJA5) **
+
 
 <h3 align="center">
 	  SSS
